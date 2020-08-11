@@ -1,0 +1,14 @@
+.topWeb {
+    height: 60px;
+    margin: -8px;
+    display: flex;
+    align-items: center;
+    background-color: #d3d3d3;
+    color: black;
+    font-weight: 600;
+    vertical-align: middle;
+  }
+
+.topWeb h4{
+    margin-left: 5vw;
+}
