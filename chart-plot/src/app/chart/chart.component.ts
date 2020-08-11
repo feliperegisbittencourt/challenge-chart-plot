@@ -62,7 +62,6 @@ export class ChartComponent implements OnChanges {
 
       }
     }
-    this.lineChartData[0].data = 
   }
 
 }
